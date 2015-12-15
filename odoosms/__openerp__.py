@@ -28,7 +28,7 @@
     "depends": ["base",
                 "email_template",
                 ],
-    "author": "Challouf Mohamed habib,SIAT",
+    "author": "SIAT:Challouf Mohamed Habib",
     'images': ['images/sms.jpeg', 'images/gateway.jpeg', 'images/gateway_access.jpeg','images/client.jpeg','images/send_sms.jpeg'],
     "description": """
 SMS Client module provides:
